@@ -1,0 +1,38 @@
+.btn{
+    width: 46px;
+    height:38px;
+}
+.tablee{
+    border: 6px solid gold;
+
+    position: relative;
+    left:38%;
+    top:50%;
+}
+#TextView{
+    width: 264px;
+    height:48px;
+    border: 6px solid gold;
+    /*padding-left: 0px; padding-right: 0px;*/
+    position: relative;
+    left:38%;
+    padding: 6px;
+}
+
+div{
+    border: 6px dotted blueviolet;
+    position: relative;
+    top:30%;
+}
+table{
+    border: 6px solid gold;
+    position: relative;
+    left:38%;
+    padding: 6px;
+}
+td{
+    padding: 6px;
+}
+body{
+     background-color: blueviolet;
+}
